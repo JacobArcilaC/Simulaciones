@@ -1,5 +1,4 @@
 import random
-
 def simularJuego():
     cantidadCaras = 0
     cantidadSellos = 0
